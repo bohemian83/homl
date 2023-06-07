@@ -1,4 +1,4 @@
-homl-venv*/
-Chapter*/*logs*
-Chapter*/*save*
-Chapter*/*model*
+/homl-venv*/*
+/Chapter*/*logs*/
+/Chapter*/*save*/
+/Chapter*/*model*/
