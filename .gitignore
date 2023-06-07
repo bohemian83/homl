@@ -2,3 +2,5 @@
 /Chapter*/*logs*/
 /Chapter*/*save*/
 /Chapter*/*model*/
+/datasets/.*
+/datasets/*/.*
