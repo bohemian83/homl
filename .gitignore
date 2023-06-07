@@ -4,3 +4,5 @@
 /Chapter*/*model*/
 /datasets/.*
 /datasets/*/.*
+/.vscode*/*
+.DS_Store
