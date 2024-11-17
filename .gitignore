@@ -8,4 +8,4 @@
 .DS_Store
 */*tfrecord*
 *.npz
-/handson-ml3/*.*
+/handson-ml3/*
