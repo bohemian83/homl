@@ -1,8 +1,10 @@
 /homl-venv*/*
-/Chapter*/*logs*/
+/Chapter*/*log*/
 /Chapter*/*save*/
 /Chapter*/*model*/
 /datasets/.*
 /datasets/*/.*
 /.vscode*/*
 .DS_Store
+*/*tfrecord*
+*.npz
